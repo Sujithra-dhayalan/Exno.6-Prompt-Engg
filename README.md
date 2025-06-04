@@ -1,6 +1,6 @@
 # Exno.6-Prompt-Engg
 ## Name : Sujithra D
-## Register no: 21222220052
+## Register no: 212222220052
 ## Aim: 
 Development of Python Code Compatible with Multiple AI Tools
 
